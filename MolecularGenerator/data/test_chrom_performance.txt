@@ -1,0 +1,6 @@
+﻿SMILES
+C#CCn1c2ccccc2c2cc(/C=C/c3cc(C)c4n3[B-](F)(F)[N+]3=C(C)C=C(C)C3=C4c3ccc(I)cc3)ccc21
+Cc1ccccc1-c1c2ccc(=[N+]3CCCCC3)cc-2oc2cc(N3CCCCC3)ccc12
+CCNc1cc2c(cc1C)C(c1ccccc1C(=O)O)=C1CCCC(/C=C/C3=[N+](C)c4ccc5ccccc5c4C3(C)C)=C1O2
+CN1/C(=C/C=C(/C=C/C2=[N+](C)c3ccccc3C2(C)C)c2ccc(F)cc2)C(C)(C)c2ccccc21
+CCOC(=O)c1ccccc1-c1c2ccc(=[N+](CC)CC)cc-2oc2c1c(=O)oc1c3c4c(cc12)CCCN4CCC3
