@@ -100,8 +100,10 @@ bash run_morty.sh ../data/test_chrom_performance.txt
 The results of the analysis can be found in experiments/results
 
 ### How to run the Spectral Discriminator
-you can use Spectral Discriminator for prediction cocrystal density by the following command:
+you can use Spectral Discriminator for prediction cocrystal density by the following command.
+```
 python graph_main7.py --dir='FWHM_sol.csv'
+```
 
 
 
