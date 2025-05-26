@@ -85,3 +85,25 @@ webencodings==0.5.1
 Werkzeug==0.15.5
 widgetsnbextension==3.5.1
 ```
+Once the installation is done, you can activate the virtual conda environement for this project:
+
+```
+source activate LumiGen
+```
+Please note that you will need to activate this virtual conda environement every time you want to use this project. 
+
+### How to run the Molcular Generator
+```
+cd MolcularGenerator/experiments/
+bash run_morty.sh ../data/test_chrom_performance.txt
+```
+The results of the analysis can be found in experiments/results
+
+### How to run the Spectral Discriminator
+you can use Spectral Discriminator for prediction cocrystal density by the following command:
+python graph_main7.py --dir='FWHM_sol.csv'
+
+
+
+
+
